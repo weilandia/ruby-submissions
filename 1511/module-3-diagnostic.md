@@ -17,5 +17,5 @@
 * Lenny Myerson:
 * Nate Venn:
 * Nicholas Dorans:
-* Nick Weiland:
+* Nick Weiland: https://github.com/weilandia/module_3_diagnostic
 * Scott Firestone:
